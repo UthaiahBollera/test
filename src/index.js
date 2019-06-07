@@ -5,4 +5,5 @@ document.getElementById("app").innerHTML = `
   <a href="https://parceljs.org"  rel="noopener noreferrer">here</a>
   for more info about Parcel.
 </div>
+<div />
 `;
